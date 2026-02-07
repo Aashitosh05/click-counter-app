@@ -22,3 +22,5 @@ A simple **Click Counter** application built using **HTML, CSS, and JavaScript**
 ## 🎯 Purpose
 This project is part of my journey to strengthen JavaScript fundamentals and build consistency on GitHub while learning web development.
 
+## Author
+Aashitosh Bhakare
